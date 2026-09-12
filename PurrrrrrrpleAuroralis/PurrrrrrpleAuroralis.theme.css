@@ -1,0 +1,66 @@
+/**
+ * @name PurrrrrrpleAuroralis
+ * @version 1.0
+ * @description Beautiful sky, filled with love and obsession, the sky is purple, the shadows are verbal, the gas from the sun, to the fun we all get, this sight, is right.
+ * @author NZ- Aka NIGHTFALL.js
+ *
+ * @website https://github.com/NZ-K5
+ * @source https://github.com/NZ-K5/BetterDiscord/blob/main/BetterDiscord/Themes/PurrrrrrpleAuroralis/css/source.css
+ * @invite https://discord.gg/YwWUEjYYWc
+ */
+
+@import url(https://github.com/NZ-K5/BetterDiscord/main/BetterDiscord/Themes/PurrrrrrpleAuroralis/css/source.css);
+
+:root {
+	--app-bg: url(https://i.imgur.com/PBXikqp.jpg);
+	--app-blur: 6px;
+	--app-margin: 24px;
+	--app-radius: 8px; /*	-	*/
+	
+	--accent-hue: 276;
+	--accent-saturation: 80%;
+	--accent-lightness: 65%;
+	--accent-opacity: 1;
+	--accent-text-color: #fff; /*	-	*/
+
+	--sidebar-color: rgba(0,0,0,0.4);
+	--main-content-color: rgba(0,0,0,0.2); /*	-	*/
+
+	--message-color: rgba(0,0,0,0.4);
+	--message-radius: 8px;
+	--message-padding-top: 8px;
+	--message-padding-side: 8px; /*	-	*/
+
+	--mention-hue: 276;
+	--mention-saturation: 80%;
+	--mention-lightness: 65%;
+	--mention-opacity: 1;
+	
+	--reply-hue: 285;
+	--reply-saturation: 80%;
+	--reply-lightness: 65%;
+	--reply-opacity: 1; /*	-	*/
+
+	--textarea-color: 255,255,255;
+	--textarea-alpha: 0.1;
+	--textarea-alpha-focus: 0.15;
+	--textarea-text-color: #fff;
+	--textarea-radius: 22px;  /*	-	*/
+
+	--card-color: rgba(0,0,0,0.4);
+	--card-color-hover: rgba(0,0,0,0.5);
+	--card-color-select: rgba(0,0,0,0.7); /*	-	*/
+	
+	--button-height: 32px;
+	--button-padding: 0 16px;
+	--button-action-color: #000;
+	--button-radius: 16px; /*	-	*/
+
+	--interactive-normal: #aaa;
+	--interactive-hover: #ddd;
+	--interactive-active: #fff;
+	--interactive-muted: #777; /*	-	*/
+
+	--background-modifier-hover: rgba(255,255,255,0.075);
+	--background-modifier-selected: rgba(255,255,255,0.125);
+}
